@@ -1,0 +1,6 @@
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\bin\Debug\ECS.New.exe.config
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\bin\Debug\ECS.New.exe
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\bin\Debug\ECS.New.pdb
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\obj\Debug\ECS.New.csprojAssemblyReference.cache
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\obj\Debug\ECS.New.exe
+C:\Users\sidse\Google Drev\Sundhedsteknologi\F20\SWT\GithubSidsel\ECS legacy\ECS_LegacySolution\ECS.New\obj\Debug\ECS.New.pdb
